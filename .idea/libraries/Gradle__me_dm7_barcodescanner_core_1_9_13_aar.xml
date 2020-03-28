@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: me.dm7.barcodescanner:core:1.9.13@aar">
+    <CLASSES>
+      <root url="file://E:/app/android/android gridal/.gradle/caches/transforms-2/files-2.1/23f41830270e24de51022bddca0d938e/res" />
+      <root url="jar://E:/app/android/android gridal/.gradle/caches/transforms-2/files-2.1/23f41830270e24de51022bddca0d938e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/app/android/android gridal/.gradle/caches/modules-2/files-2.1/me.dm7.barcodescanner/core/1.9.13/8ffe2974a8cb7e839074407796f17c3854885c56/core-1.9.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

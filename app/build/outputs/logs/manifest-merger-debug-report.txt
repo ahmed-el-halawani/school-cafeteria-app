@@ -1,0 +1,545 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.google.android.material:material:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4ea5fb9060df32301106556b00677b53\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1fbefc278a788d050d6d98290cc961a6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5305ce0bf9f313e033480f1fd0d234ac\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b52f498b4ea631f8cfe24270243d227\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\82220b175b546ccc0d0b8e709f279511\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\657648004849a529ed0b83c9d889de2c\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0e7fd21e0444ee80d2172c29dc557869\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b2690e7bd1166db90cb02fb3a0721df2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5c8690a44b5bc59c036e9eccab89fad8\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ecc8b16880e142f236e4c6f454a2a21c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\38afcaa63439545d7ea87fd5be622b76\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\33cbfd5e90315eb2743091287cbcaed1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\850caa277309881431e7991a43aa7d95\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\85df3e9aa99ebfb13a4d69fcf03bf2db\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\20f5711766e177bcab98024eeec8268e\AndroidManifest.xml:17:1-28:12
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\482661fd654e6271a11681582abf7a21\AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\23f41830270e24de51022bddca0d938e\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\dd48f56f90d1f78836f1011ed783844b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\d817a1d826f1d9adda6b256bdd72b058\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5a5964da80dedfcf11dfc261bed97bb5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\078d262f491a3ebc35a7ea826c2ced23\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0135e7319e5e30305d7cae1718c72151\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\72cb48073a0b2967fcc082239d3b7544\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\aa5a8359ca62a74d1224a57be9d4f052\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\682fe14f55d48cc5e6c137c4b3ea84d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\68c5b71bb4e19c3142e30611f8580406\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\cd420f84f3e64edea7ee304c3af88038\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\38310e879acfc7e990a0a2ecd3f52987\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ebcef7757ab845e6ea61d6495b651a65\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\3e4b4b534196f5acf8f2cc2d56a9ebe6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\454d9a19dbb9df230ee06bf8e8f5b660\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0a58d00ef7d34d66c1bef797b68c346e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\04e50845b088857119597f3ff843b2e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\60e0a7ef15742e44221c3084ddf4ae6d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\397e897368b5d7ddecdc760f38d6b655\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\9026440ed3eefaec8097d1c065dd172f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f2083acedd12b5a3f6208718213c124d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e8b77eb2a40ef479a8c828ae0df9527d\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\674032f2cf181a1ab648b107474ca430\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\7337392c76ebbf7b0b394fc70648e024\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e953044c8908cee8f7277facde97dfa4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\339e49959f65e11c3d7a23d7c7728dd3\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e94a3fbf7dcca165f8f20fb6c24da9a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b9766ee41be13d1def3e153788f6799\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\eafb346c3aa6c3bdc2a878e3e656542c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b3b99e119edf30238b109e14f5c3c691\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\01cdd3c7c8072bcb929c603cc0e2a535\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\fc9e0b750dbacf1ae260fc7b9a71849b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\92988898c19b1bb0b0ee2aaff1a839a1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\efb4f68bf8064a357aa90d606e0d5970\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4602470cf51c7187665b5a8249c63346\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ea08dc50f8291c82738a0ca94ccd3b5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ef38ea0cf3a2f439d47f7c1f930e8d31\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:4:9-40
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:3:9-55
+	android:versionCode
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\82220b175b546ccc0d0b8e709f279511\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\82220b175b546ccc0d0b8e709f279511\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\657648004849a529ed0b83c9d889de2c\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\657648004849a529ed0b83c9d889de2c\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\82220b175b546ccc0d0b8e709f279511\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\82220b175b546ccc0d0b8e709f279511\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\657648004849a529ed0b83c9d889de2c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\657648004849a529ed0b83c9d889de2c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:11:22-73
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:13:19-57
+application
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:15:5-47:19
+MERGED from [com.google.android.material:material:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4ea5fb9060df32301106556b00677b53\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4ea5fb9060df32301106556b00677b53\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b52f498b4ea631f8cfe24270243d227\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b52f498b4ea631f8cfe24270243d227\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0e7fd21e0444ee80d2172c29dc557869\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0e7fd21e0444ee80d2172c29dc557869\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b2690e7bd1166db90cb02fb3a0721df2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b2690e7bd1166db90cb02fb3a0721df2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5c8690a44b5bc59c036e9eccab89fad8\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5c8690a44b5bc59c036e9eccab89fad8\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\38afcaa63439545d7ea87fd5be622b76\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\38afcaa63439545d7ea87fd5be622b76\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\33cbfd5e90315eb2743091287cbcaed1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\33cbfd5e90315eb2743091287cbcaed1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\85df3e9aa99ebfb13a4d69fcf03bf2db\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\85df3e9aa99ebfb13a4d69fcf03bf2db\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\20f5711766e177bcab98024eeec8268e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\20f5711766e177bcab98024eeec8268e\AndroidManifest.xml:22:5-26:19
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\482661fd654e6271a11681582abf7a21\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\482661fd654e6271a11681582abf7a21\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\23f41830270e24de51022bddca0d938e\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\23f41830270e24de51022bddca0d938e\AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e8b77eb2a40ef479a8c828ae0df9527d\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e8b77eb2a40ef479a8c828ae0df9527d\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\339e49959f65e11c3d7a23d7c7728dd3\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\339e49959f65e11c3d7a23d7c7728dd3\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ef38ea0cf3a2f439d47f7c1f930e8d31\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ef38ea0cf3a2f439d47f7c1f930e8d31\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e8b77eb2a40ef479a8c828ae0df9527d\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:20:13-39
+	android:label
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:18:13-45
+	tools:ignore
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:22:13-52
+	android:roundIcon
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:19:13-58
+	android:icon
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:17:13-47
+	android:allowBackup
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:16:13-39
+	android:theme
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:21:13-44
+activity#com.example.schoolapp.ui.uiCards.MealScannedHistoryActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:9-84
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:19-72
+activity#com.example.schoolapp.ui.uiCards.StuffActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:9-62
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:19-59
+activity#com.example.schoolapp.ui.uiCards.StoreActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:19-59
+activity#com.example.schoolapp.ui.ProfileActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:9-28:44
+	android:noHistory
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:28:17-41
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:27:17-51
+activity#com.example.schoolapp.ui.signInUp.SignUpActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:29:9-64
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:29:19-61
+activity#com.example.schoolapp.control.scanners.scanner
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:9-62
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:19-59
+activity#com.example.schoolapp.ui.uiCards.MealScannerActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:9-68
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:19-65
+activity#com.example.schoolapp.ui.uiCards.ScanActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:32:19-58
+activity#com.example.schoolapp.ui.signInUp.SignInActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:noHistory
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:35:17-41
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:34:17-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.example.schoolapp.MainActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:42:9-50
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:42:19-47
+meta-data#preloaded_fonts
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:44:9-46:61
+	android:resource
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:46:17-58
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:45:17-47
+uses-sdk
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4ea5fb9060df32301106556b00677b53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4ea5fb9060df32301106556b00677b53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1fbefc278a788d050d6d98290cc961a6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1fbefc278a788d050d6d98290cc961a6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5305ce0bf9f313e033480f1fd0d234ac\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5305ce0bf9f313e033480f1fd0d234ac\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b52f498b4ea631f8cfe24270243d227\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b52f498b4ea631f8cfe24270243d227\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\82220b175b546ccc0d0b8e709f279511\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\82220b175b546ccc0d0b8e709f279511\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\657648004849a529ed0b83c9d889de2c\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\657648004849a529ed0b83c9d889de2c\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0e7fd21e0444ee80d2172c29dc557869\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0e7fd21e0444ee80d2172c29dc557869\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b2690e7bd1166db90cb02fb3a0721df2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b2690e7bd1166db90cb02fb3a0721df2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5c8690a44b5bc59c036e9eccab89fad8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5c8690a44b5bc59c036e9eccab89fad8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ecc8b16880e142f236e4c6f454a2a21c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ecc8b16880e142f236e4c6f454a2a21c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\38afcaa63439545d7ea87fd5be622b76\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\38afcaa63439545d7ea87fd5be622b76\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\33cbfd5e90315eb2743091287cbcaed1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\33cbfd5e90315eb2743091287cbcaed1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\850caa277309881431e7991a43aa7d95\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\850caa277309881431e7991a43aa7d95\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\85df3e9aa99ebfb13a4d69fcf03bf2db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\85df3e9aa99ebfb13a4d69fcf03bf2db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\20f5711766e177bcab98024eeec8268e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\20f5711766e177bcab98024eeec8268e\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\482661fd654e6271a11681582abf7a21\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zbar:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\482661fd654e6271a11681582abf7a21\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\23f41830270e24de51022bddca0d938e\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\23f41830270e24de51022bddca0d938e\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\dd48f56f90d1f78836f1011ed783844b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\dd48f56f90d1f78836f1011ed783844b\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\d817a1d826f1d9adda6b256bdd72b058\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\d817a1d826f1d9adda6b256bdd72b058\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5a5964da80dedfcf11dfc261bed97bb5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5a5964da80dedfcf11dfc261bed97bb5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\078d262f491a3ebc35a7ea826c2ced23\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\078d262f491a3ebc35a7ea826c2ced23\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0135e7319e5e30305d7cae1718c72151\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0135e7319e5e30305d7cae1718c72151\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\72cb48073a0b2967fcc082239d3b7544\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\72cb48073a0b2967fcc082239d3b7544\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\aa5a8359ca62a74d1224a57be9d4f052\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\aa5a8359ca62a74d1224a57be9d4f052\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\682fe14f55d48cc5e6c137c4b3ea84d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\682fe14f55d48cc5e6c137c4b3ea84d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\68c5b71bb4e19c3142e30611f8580406\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\68c5b71bb4e19c3142e30611f8580406\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\cd420f84f3e64edea7ee304c3af88038\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\cd420f84f3e64edea7ee304c3af88038\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\38310e879acfc7e990a0a2ecd3f52987\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\38310e879acfc7e990a0a2ecd3f52987\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ebcef7757ab845e6ea61d6495b651a65\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ebcef7757ab845e6ea61d6495b651a65\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\3e4b4b534196f5acf8f2cc2d56a9ebe6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\3e4b4b534196f5acf8f2cc2d56a9ebe6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\454d9a19dbb9df230ee06bf8e8f5b660\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\454d9a19dbb9df230ee06bf8e8f5b660\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0a58d00ef7d34d66c1bef797b68c346e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\0a58d00ef7d34d66c1bef797b68c346e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\04e50845b088857119597f3ff843b2e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\04e50845b088857119597f3ff843b2e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\60e0a7ef15742e44221c3084ddf4ae6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\60e0a7ef15742e44221c3084ddf4ae6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\397e897368b5d7ddecdc760f38d6b655\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\397e897368b5d7ddecdc760f38d6b655\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\9026440ed3eefaec8097d1c065dd172f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\9026440ed3eefaec8097d1c065dd172f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f2083acedd12b5a3f6208718213c124d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f2083acedd12b5a3f6208718213c124d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e8b77eb2a40ef479a8c828ae0df9527d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e8b77eb2a40ef479a8c828ae0df9527d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\674032f2cf181a1ab648b107474ca430\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\674032f2cf181a1ab648b107474ca430\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\7337392c76ebbf7b0b394fc70648e024\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\7337392c76ebbf7b0b394fc70648e024\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e953044c8908cee8f7277facde97dfa4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e953044c8908cee8f7277facde97dfa4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\339e49959f65e11c3d7a23d7c7728dd3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\339e49959f65e11c3d7a23d7c7728dd3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e94a3fbf7dcca165f8f20fb6c24da9a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\e94a3fbf7dcca165f8f20fb6c24da9a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b9766ee41be13d1def3e153788f6799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b9766ee41be13d1def3e153788f6799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\eafb346c3aa6c3bdc2a878e3e656542c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\eafb346c3aa6c3bdc2a878e3e656542c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b3b99e119edf30238b109e14f5c3c691\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b3b99e119edf30238b109e14f5c3c691\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\01cdd3c7c8072bcb929c603cc0e2a535\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\01cdd3c7c8072bcb929c603cc0e2a535\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\fc9e0b750dbacf1ae260fc7b9a71849b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\fc9e0b750dbacf1ae260fc7b9a71849b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\92988898c19b1bb0b0ee2aaff1a839a1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\92988898c19b1bb0b0ee2aaff1a839a1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\efb4f68bf8064a357aa90d606e0d5970\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\efb4f68bf8064a357aa90d606e0d5970\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4602470cf51c7187665b5a8249c63346\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4602470cf51c7187665b5a8249c63346\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ea08dc50f8291c82738a0ca94ccd3b5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ea08dc50f8291c82738a0ca94ccd3b5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ef38ea0cf3a2f439d47f7c1f930e8d31\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ef38ea0cf3a2f439d47f7c1f930e8d31\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\2c35bd675a3898afcebc8132ef534adb\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\09397080d2efb96ae985f9c99a6ad53e\AndroidManifest.xml:49:13-87
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1d1b5a295a8fd342d56910325944f208\AndroidManifest.xml:37:17-109
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\b731086ec1cc0202bcc3d6e7492d6867\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\6a47faf7c81f909e3e21272665abdeb5\AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\f7cfefcee08fbb117d34e2f50f93ec5c\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\20f5711766e177bcab98024eeec8268e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\20f5711766e177bcab98024eeec8268e\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\20f5711766e177bcab98024eeec8268e\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\98405820021323f69d19676efb01b5c0\AndroidManifest.xml:9:13-64

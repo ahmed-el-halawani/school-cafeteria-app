@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:monitor:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://E:/app/android/android gridal/.gradle/caches/transforms-2/files-2.1/8f513e54f5a4db8358d45056c683e27c/jars/classes.jar!/" />
+      <root url="file://E:/app/android/android gridal/.gradle/caches/transforms-2/files-2.1/8f513e54f5a4db8358d45056c683e27c/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/app/android/android gridal/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/2af6ec82fa4b1151212001e83514ccb39f360adc/monitor-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/app/android/android gridal/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.2.0/dbbc3050e0945ecea95f4e25b72e169cfe6f32bc/monitor-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

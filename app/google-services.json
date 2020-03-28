@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "615583793631",
+    "firebase_url": "https://school-app-230bd.firebaseio.com",
+    "project_id": "school-app-230bd",
+    "storage_bucket": "school-app-230bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615583793631:android:32b9cd6aadb2b85be3c46a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615583793631-2np50bpgj346n4iihmsl6hmmpnd3j05m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "2d8a4cede2a7def88f3922a5bee1da0153868d6e"
+          }
+        },
+        {
+          "client_id": "615583793631-b2ef4v4u78u80ohc4phft60dtgbe9e6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurc7lBFb99_fEj4cgUyVRowXLgoXqgWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615583793631-b2ef4v4u78u80ohc4phft60dtgbe9e6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615583793631:android:756873aa3503f6e9e3c46a",
+        "android_client_info": {
+          "package_name": "com.example.schoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615583793631-jg1hhukjnj2k6f60dksqlm3tsukrfpn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schoolapp",
+            "certificate_hash": "81e85bc99e09696bdbb7cc1da76d12fea7b71236"
+          }
+        },
+        {
+          "client_id": "615583793631-mg0b1ifrm61ba991d7mhg49hqeqj3thi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schoolapp",
+            "certificate_hash": "2d8a4cede2a7def88f3922a5bee1da0153868d6e"
+          }
+        },
+        {
+          "client_id": "615583793631-b2ef4v4u78u80ohc4phft60dtgbe9e6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurc7lBFb99_fEj4cgUyVRowXLgoXqgWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615583793631-b2ef4v4u78u80ohc4phft60dtgbe9e6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

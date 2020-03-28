@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".control.scanners.scanner">
+
+
+    <LinearLayout
+            android:id="@+id/custum_action_bar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#FFFFFF"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+                android:id="@+id/btn_back"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="10dp"
+
+                android:layout_marginTop="0dp"
+                android:layout_marginBottom="0dp"
+                android:background="@drawable/ic_action_name"
+                android:contentDescription="@string/backbutton"
+                android:foreground="?attr/selectableItemBackgroundBorderless" />
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginEnd="70dp"
+                android:layout_marginBottom="-1dp"
+                android:gravity="center_vertical"
+                android:text="@string/mealScanner"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#2D3BFF"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <FrameLayout
+            android:id="@+id/cameraFrame"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/custum_action_bar">
+
+        <Button
+                android:id="@+id/btn_flash"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="20dp"
+                android:text="@string/flash"
+                android:textSize="24sp" />
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

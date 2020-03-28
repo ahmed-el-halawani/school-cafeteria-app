@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">615583793631-b2ef4v4u78u80ohc4phft60dtgbe9e6e.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://school-app-230bd.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">615583793631</string>
+    <string name="google_api_key" translatable="false">AIzaSyCurc7lBFb99_fEj4cgUyVRowXLgoXqgWY</string>
+    <string name="google_app_id" translatable="false">1:615583793631:android:756873aa3503f6e9e3c46a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCurc7lBFb99_fEj4cgUyVRowXLgoXqgWY</string>
+    <string name="google_storage_bucket" translatable="false">school-app-230bd.appspot.com</string>
+    <string name="project_id" translatable="false">school-app-230bd</string>
+</resources>
