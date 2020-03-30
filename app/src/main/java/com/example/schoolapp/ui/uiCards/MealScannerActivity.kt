@@ -40,7 +40,6 @@ class MealScannerActivity : AppCompatActivity() {
         }
     }
 
-    @RequiresApi(Build.VERSION_CODES.M)
     override fun onStart() {
         super.onStart()
         dbEvent = DBEvent(this,{})

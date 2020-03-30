@@ -21,9 +21,9 @@ import kotlinx.android.synthetic.main.search_for_stuffs.*
 import kotlinx.android.synthetic.main.search_for_stuffs.btn_back
 
 class SearchForeStuffActivity : AppCompatActivity() {
-    lateinit var dbEvent: DBEvent
-    lateinit var workerList:ArrayList<Stuffs>
-    lateinit var searchBar:CustomSearchBar
+    private lateinit var dbEvent: DBEvent
+    private lateinit var workerList:ArrayList<Stuffs>
+    private lateinit var searchBar:CustomSearchBar
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -35,8 +35,6 @@ class SearchForeStuffActivity : AppCompatActivity() {
         btn_back.setOnClickListener {
             onBackPressed()
         }
-
-
     }
 
     override fun onStart() {
@@ -59,7 +57,6 @@ class SearchForeStuffActivity : AppCompatActivity() {
         }
     }
 
-
     private fun search(searchKey: String = ""){
         dbEvent = DBEvent(this){p0->
             workerList.clear()
@@ -74,7 +71,6 @@ class SearchForeStuffActivity : AppCompatActivity() {
             lv_stuffsList.adapter = StuffsListAdapter(this,workerList,"search")
         }.setEvent()
     }
-
 
     override fun onBackPressed() {
         if (searchBar.isNotBack()){
