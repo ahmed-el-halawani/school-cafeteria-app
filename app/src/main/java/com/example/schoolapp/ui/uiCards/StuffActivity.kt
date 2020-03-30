@@ -1,5 +1,6 @@
 package com.example.schoolapp.ui.uiCards
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.schoolapp.R
@@ -9,6 +10,7 @@ import com.example.schoolapp.control.utils.Keys
 import com.example.schoolapp.control.adaptor.StuffsListAdapter
 import com.example.schoolapp.control.utils.Utils
 import com.example.schoolapp.model.Stuffs
+import com.example.schoolapp.ui.SearchForeStuffActivity
 import kotlinx.android.synthetic.main.stuffe_activity.*
 
 class StuffActivity : AppCompatActivity() {
@@ -22,6 +24,10 @@ class StuffActivity : AppCompatActivity() {
 
         btn_back.setOnClickListener {
             onBackPressed()
+        }
+
+        fab_addStuffs.setOnClickListener {
+            startActivity(Intent(this,SearchForeStuffActivity::class.java))
         }
 
 

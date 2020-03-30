@@ -7,12 +7,14 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.View
 import android.widget.Toast
+import com.example.schoolapp.control.Ud
 import com.example.schoolapp.control.adaptor.DashBordAdaptor
 import com.example.schoolapp.control.utils.DBEvent
 import com.example.schoolapp.control.utils.Fb
 import com.example.schoolapp.control.utils.Keys
 import com.example.schoolapp.control.utils.Utils
 import com.example.schoolapp.model.DashbordCardDetails
+import com.example.schoolapp.model.Stuffs
 import com.example.schoolapp.ui.ProfileActivity
 import com.example.schoolapp.ui.uiCards.*
 import com.squareup.picasso.Picasso
@@ -74,12 +76,21 @@ class MainActivity : AppCompatActivity() {
             }
 
         }.setEvent()
+
+        DBEvent(this){
+            val userPath = it.child(Keys.SchoolWorker).child(Fb.auth.uid!!)
+            val userData = userPath.getValue(Stuffs::class.java)!!
+            Ud.id = userData.id
+            Ud.userName = userData.userName
+            Ud.userSchool = userData.school
+            Ud.userRole = userData.rule
+        }.setSingleEvent()
     }
 
     private fun roleSelect(role:String){
         roleBordCards = ArrayList()
 
-        when (role.toUpperCase()) {
+        when (role) {
             Keys.owner->{
                 roleBordCards = dashboardCards
             }

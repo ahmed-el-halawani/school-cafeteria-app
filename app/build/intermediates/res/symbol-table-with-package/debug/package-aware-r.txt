@@ -1489,6 +1489,7 @@ drawable profile_background
 drawable profile_border
 drawable role
 drawable rubble
+drawable search_box
 drawable shadow
 drawable shadow2
 drawable store
@@ -1569,6 +1570,7 @@ id add
 id addImage
 id adjust_height
 id adjust_width
+id admin
 id alertTitle
 id all
 id always
@@ -1579,9 +1581,12 @@ id beginning
 id blocking
 id bottom
 id btn_addOrRemove
+id btn_addWorker
 id btn_add_quantity
 id btn_back
 id btn_cancel
+id btn_cancel2
+id btn_close
 id btn_done
 id btn_flash
 id btn_logOt
@@ -1600,6 +1605,7 @@ id cameraFrame
 id cancel_action
 id cancel_button
 id cardView
+id cashier
 id center
 id center_horizontal
 id center_vertical
@@ -1637,6 +1643,7 @@ id dimensions
 id direct
 id disableHome
 id dropdown_menu
+id editText
 id edit_query
 id end
 id end_padder
@@ -1657,6 +1664,7 @@ id et_productType
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fab_addStuffs
 id fade
 id fill
 id fill_horizontal
@@ -1665,7 +1673,6 @@ id filled
 id filter_chip
 id fitToContents
 id fixed
-id floatingActionButton
 id forever
 id ghost_view
 id ghost_view_holder
@@ -1772,6 +1779,7 @@ id progressBar
 id progress_circular
 id progress_horizontal
 id radio
+id rg_roleList
 id right
 id right_icon
 id right_side
@@ -1787,6 +1795,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id search
 id search_badge
 id search_bar
 id search_button
@@ -1821,6 +1830,7 @@ id src_over
 id standard
 id start
 id status_bar_latest_event_content
+id store
 id stretch
 id submenuarrow
 id submit_area
@@ -1849,6 +1859,7 @@ id textView5
 id textView6
 id textView7
 id textView8
+id textView9
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1968,12 +1979,15 @@ layout activity_add_item
 layout activity_main
 layout activity_no_rule
 layout activity_scanner
+layout activity_search_fore_stuff
 layout add_remove
+layout addworker_dialog
 layout child_tile
 layout component_custom_action_bar
 layout component_market_list_view_tile
 layout component_meal_tile
 layout custom_dialog
+layout custom_search_bar
 layout dashbord
 layout dashbord_cards
 layout design_bottom_navigation_item
@@ -2040,6 +2054,7 @@ layout notification_template_part_chronometer
 layout notification_template_part_time
 layout profile_activity
 layout school_fragment
+layout search_for_stuffs
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

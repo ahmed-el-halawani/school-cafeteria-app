@@ -20,7 +20,8 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
             tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ui.uiCards.MealScannedHistoryActivity"></activity>
+        <activity android:name=".ui.SearchForeStuffActivity"></activity>
+        <activity android:name=".ui.uiCards.MealScannedHistoryActivity" />
         <activity android:name=".ui.uiCards.StuffActivity" />
         <activity android:name=".ui.uiCards.StoreActivity" />
         <activity

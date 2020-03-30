@@ -7,7 +7,6 @@ import com.example.schoolapp.R
 import com.example.schoolapp.control.utils.DBEvent
 import com.example.schoolapp.control.utils.Fb
 import com.example.schoolapp.control.utils.Keys
-import com.example.schoolapp.control.UserInfo
 import com.example.schoolapp.control.utils.Utils
 import com.example.schoolapp.model.Stuffs
 import com.example.schoolapp.ui.signInUp.SignInActivity
@@ -61,12 +60,10 @@ class ProfileActivity : AppCompatActivity() {
         dbEvent.removeEvent()
         startActivity(Intent(this,SignInActivity::class.java))
         finishAffinity()
-        UserInfo.reset()
     }
 
     override fun onBackPressed() {
         super.onBackPressed()
-
         if (!Utils.isNotConnect(this)) {
             dbEvent.removeEvent()
         }

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
 MERGED from [com.google.android.material:material:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4ea5fb9060df32301106556b00677b53\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1fbefc278a788d050d6d98290cc961a6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\5305ce0bf9f313e033480f1fd0d234ac\AndroidManifest.xml:2:1-9:12
@@ -64,22 +64,22 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] E:\app\android\android
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4602470cf51c7187665b5a8249c63346\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ea08dc50f8291c82738a0ca94ccd3b5c\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\ef38ea0cf3a2f439d47f7c1f930e8d31\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
 	package
 		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:4:9-40
 		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:3:9-55
 	android:versionCode
 		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-49:12
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-50:12
 		INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
@@ -132,7 +132,7 @@ ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\Andro
 	android:name
 		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:13:19-57
 application
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:15:5-47:19
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:15:5-48:19
 MERGED from [com.google.android.material:material:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4ea5fb9060df32301106556b00677b53\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\4ea5fb9060df32301106556b00677b53\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] E:\app\android\android gridal\.gradle\caches\transforms-2\files-2.1\1b52f498b4ea631f8cfe24270243d227\AndroidManifest.xml:9:5-20
@@ -191,66 +191,70 @@ MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] E:\ap
 		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:16:13-39
 	android:theme
 		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:21:13-44
+activity#com.example.schoolapp.ui.SearchForeStuffActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:9-73
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:19-61
 activity#com.example.schoolapp.ui.uiCards.MealScannedHistoryActivity
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:9-84
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:9-75
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:19-72
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:19-72
 activity#com.example.schoolapp.ui.uiCards.StuffActivity
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:9-62
-	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:19-59
-activity#com.example.schoolapp.ui.uiCards.StoreActivity
 ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:9-62
 	android:name
 		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:19-59
+activity#com.example.schoolapp.ui.uiCards.StoreActivity
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:9-62
+	android:name
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:19-59
 activity#com.example.schoolapp.ui.ProfileActivity
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:9-28:44
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:27:9-29:44
 	android:noHistory
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:28:17-41
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:29:17-41
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:27:17-51
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:28:17-51
 activity#com.example.schoolapp.ui.signInUp.SignUpActivity
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:29:9-64
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:9-64
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:29:19-61
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:19-61
 activity#com.example.schoolapp.control.scanners.scanner
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:9-62
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:9-62
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:30:19-59
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:19-59
 activity#com.example.schoolapp.ui.uiCards.MealScannerActivity
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:9-68
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:32:9-68
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:31:19-65
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:32:19-65
 activity#com.example.schoolapp.ui.uiCards.ScanActivity
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:32:9-61
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:9-61
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:32:19-58
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:19-58
 activity#com.example.schoolapp.ui.signInUp.SignInActivity
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:33:9-41:20
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:34:9-42:20
 	android:noHistory
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:35:17-41
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:36:17-41
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:34:17-59
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:35:17-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:37:13-41:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:40:27-74
 activity#com.example.schoolapp.MainActivity
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:42:9-50
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:43:9-50
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:42:19-47
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:43:19-47
 meta-data#preloaded_fonts
-ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:44:9-46:61
+ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:45:9-47:61
 	android:resource
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:46:17-58
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:47:17-58
 	android:name
-		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:45:17-47
+		ADDED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:46:17-47
 uses-sdk
 INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ahmed\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml

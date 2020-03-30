@@ -124,7 +124,7 @@ class SignUpActivity : AppCompatActivity() {
         Fb.auth.createUserWithEmailAndPassword(email,password).addOnCompleteListener { signIn ->
             if(signIn.isSuccessful){
                 upLoadImage()
-                val school = Stuffs(email,password,userName,imageLink)
+                val school = Stuffs(email,password,userName,imageLink,Utils.randomColor())
                 FirebaseDatabase.getInstance().getReference(Keys.SchoolWorker)
                     .child(Fb.auth.uid!!)
                     .setValue(school)

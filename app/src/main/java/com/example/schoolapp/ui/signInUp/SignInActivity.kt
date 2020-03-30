@@ -7,6 +7,7 @@ import android.view.View
 import android.widget.Toast
 import com.example.schoolapp.MainActivity
 import com.example.schoolapp.R
+import com.example.schoolapp.control.utils.DBEvent
 import com.example.schoolapp.control.utils.Fb
 import com.example.schoolapp.control.utils.Keys
 import com.example.schoolapp.control.utils.Utils
@@ -25,6 +26,7 @@ class SignInActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
 
+
         btn_signIn2.setOnClickListener {
             signInChickButton()
         }
@@ -34,6 +36,12 @@ class SignInActivity : AppCompatActivity() {
             startActivity(intent)
             finishAffinity()
         }
+
+//        DBEvent(this){
+//            for (i in it.child(Keys.SchoolWorker).children){
+//                Fb.db.child(Keys.SchoolWorker).child(i.key!!).child("id").setValue(i.key)
+//            }
+//        }.setSingleEvent()
 
     }
 
@@ -59,7 +67,7 @@ class SignInActivity : AppCompatActivity() {
     }
 
     private fun emailPasswordChickValidate(email:String, password: String):String{
-        val patternEmail = Regex("""\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,6}""")
+        val patternEmail = Regex("""[a-zA-Z_.\w]+@[a-zA-Z_]+?\.[a-zA-Z]{2,6}""")
         val emailChick = patternEmail.matches(email)
 
         if (email.isEmpty() && password.isEmpty()){

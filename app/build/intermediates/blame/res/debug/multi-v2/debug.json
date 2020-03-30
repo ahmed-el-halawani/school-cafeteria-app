@@ -1,21 +1,6 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ahmed\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4_values-xxhdpi-v4.arsc.flat",
-            "map": [
-                {
-                    "source": "E:\\app\\android\\android gridal\\.gradle\\caches\\transforms-2\\files-2.1\\23f41830270e24de51022bddca0d938e\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,114",
-                        "endColumns": "58,55",
-                        "endOffsets": "109,165"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\ahmed\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
             "map": [
                 {
@@ -84,6 +69,21 @@
                         "startOffsets": "4152",
                         "endColumns": "224",
                         "endOffsets": "4372"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ahmed\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4_values-xxhdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\app\\android\\android gridal\\.gradle\\caches\\transforms-2\\files-2.1\\23f41830270e24de51022bddca0d938e\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,55",
+                        "endOffsets": "109,165"
                     }
                 }
             ]
